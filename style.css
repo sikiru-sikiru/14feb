@@ -1,0 +1,98 @@
+*{ 
+    background-color: #F35FAF;
+    font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+.red-container{ 
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+h1{ 
+    text-align: center;
+    font-size: 50px;
+    margin-top: 80px;
+    color: white;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.love{ 
+    font-family: "Pacifico", cursive;
+    font-weight: 900;
+    font-style: normal;
+    color: black;
+    
+}
+
+video{ 
+    border-radius: 20px;
+}
+
+.red-h2{ 
+    color: white;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.viddy{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red-pill a{ 
+   margin-right: 70px;
+   background-color: red;
+   padding: 15px;
+   border-radius: 10px;
+   text-decoration: none;
+   color: white;
+}
+
+.blue-pill a{ 
+    margin-left: 70px;
+   background-color: blue;
+   padding: 15px;
+   border-radius: 10px;
+   text-decoration: none;
+   color: white;
+}
+
+.image{ 
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-para{ 
+    width: 30rem;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    line-height: 1.5;
+}
+
+.para-container{ 
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about{ 
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 60px;
+}
